@@ -1,0 +1,27 @@
+
+div,
+iframe {
+  width: 90% !important;
+  margin: auto;
+  display: block;
+  border: 3px solid #ccc;
+  
+}
+div{
+    background-color:rgb(156, 111, 133) ;
+}
+iframe {
+  height: 600px !important;
+  background-color: aliceblue;
+  cursor: text;
+}
+div {
+  border: none;
+}
+button,
+input,
+select {
+  margin: 5px soild black;
+  border-radius: 5px;
+ 
+}  
